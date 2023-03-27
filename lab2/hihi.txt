@@ -1,4 +1,0 @@
-Python provides a magic wand that can be used to call 
-private methods outside the class also, it is known as name mangling. 
-It means that any identifier of the form __geek (at least two leading underscores or at most one trailing underscore) is 
-replaced with _classname__geek, where the class name is the current class name with a lead
