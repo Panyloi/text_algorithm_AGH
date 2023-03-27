@@ -1,0 +1,301 @@
+The Project Gutenberg EBook of The Project Gutenberg FAQ 2002, by Jim Tinsley
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: The Project Gutenberg FAQ 2002
+
+Author: Jim Tinsley
+
+Release Date: October, 2005 [EBook #9109]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on September 7, 2003]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: iso-8859-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE PROJECT GUTENBERG FAQ 2002 ***
+
+
+
+
+The Project Gutenberg FAQ 2002
+
+by Jim Tinsley
+
+
+
+Important: This file is posted to the Project Gutenberg archives
+not as a current guide, more as a historical reference. I hope
+that future FAQs will be posted, as the project evolves, but
+this one is of its time.
+
+If you want the most up-to-date information from PG, please
+see the current version of the FAQ, from the Project Gutenberg
+site, or, at the time of posting, at:
+
+    http://ibiblio.org/gutenberg/faq/gutfaq.txt
+    or
+    http://ibiblio.org/gutenberg/faq/gutfaq.htm
+
+
+
+
+Acknowledgements
+
+Writing a FAQ for an organization of fanatical proofreaders has
+its ups and downs! I'd like to thank all those who corrected
+my facts and my typos, and especially the people who pointed out
+the lack of clarity in certain answers. The remaining errors and
+opacity are all mine.
+
+
+
+Preface to the archive edition
+
+Ironically, Project Gutenberg, which preserves the writings of
+others, doesn't have much written history itself. There are
+scraps of e-mails and guidelines, but many newsletters and other
+internal writings before 1996 have gone to the great bit-bucket
+in the sky.
+
+The later half of the '90s marked a graceful blooming of Project
+Gutenberg's growth. Three related technical factors contributed: the
+explosion in home PCs brought standardization, which made it easy
+for non-techies to install scanners, which, in response to the new
+demand, became plentiful and cheap. And, of course, these years saw
+the rise in popularity of the Internet, which has always been PG's
+main channel of communication and distribution.
+
+However, while PG's production expanded geometrically, at Moore's
+Law rates, there were barriers to participation. Most volunteers had
+to find an eligible book, scan or type it, and proof the resulting
+text all by themselves. This was and is a fairly significant amount
+of work: 40 painstaking hours would be a typical commitment for one
+book.
+
+Beyond that, simply learning the mechanics of producing e-texts
+could be a serious challenge for newcomers. Nearly all internal
+PG communication, except for the Newsletter, was by private e-mail,
+and instructions had to be repeated many times to individual new
+volunteers, all of whom showed up with great good will, but most of
+whom vanished after a week or two.
+
+Michael Hart was unstinting in his editing of incoming texts and
+handling questions by e-mail, but any one person has only so many
+hours.
+
+The Directors of Production at the time -- Sue Asscher, Dianne Bean,
+John Bickers and David Price -- served as contact points for advice
+and help, made enormous efforts of production themselves, and tried
+to share the scanned texts among new volunteers for proofing. They
+made a huge contribution to building community in PG.
+
+Pietro Di Miceli set up a web site for the project in 1996, and with
+the popularization of the Web (as opposed to the Internet), this became
+a beacon for readers and new volunteers.
+
+All of these people reached out to willing volunteers, drew them in,
+helped them, encouraged them. The Project and all of the readers of
+the books, now and in the future, owe these people a great debt.
+Without them, Project Gutenberg could not have achieved what it has.
+But still, for the most part, each volunteer worked alone.
+
+
+In 1999, I wrote, in response to an offer to volunteer:
+
+    I think I can best answer your offer, and many others like it,
+    by giving an extended description of what actually happens in
+    the making of PG texts, and why it's often not easy to get
+    started.
+
+    There is no agenda, no master list of tasks ready to be given to
+    volunteers. This is often the hardest thing to get across to new
+    volunteers. I know I waited quite a while after volunteering for
+    someone to give me a job to do before I realized it.
+
+
+    Exactly five steps are normally performed in the publishing of
+    an e-text.
+
+    1. Someone, somewhere gets a public-domain copy of a text they
+       want to contribute.
+
+    2. That volunteer confirms its PD status by sending TP&V to
+       Michael, and getting copyright clearance.
+
+    3. Someone, usually the same volunteer, scans and corrects the
+       text, or, if skilled in typing, types the book into an e-text.
+
+    4. Someone, often a different volunteer, second-proofs the
+       e-text, removing the smaller errors.
+
+    5. The e-text is sent to Michael for posting.
+
+
+    There are three barriers which make it difficult for most people
+    to contribute:
+
+    1. Getting a PD book.
+
+    2. People without scanners and typing skills have no way of
+       turning a book into an e-text.
+
+    3. Even with a scanner, turning a book into an e-text is not
+       easy or quick.
+
+    Since, generally, people who have a PD book don't just want to
+    send it off to a stranger for scanning, the people who produce
+    e-texts have to get over all three of these barriers. This is
+    the bottleneck in production. It's relatively easy to get an
+    e-text second-proofed; making it in the first place is the
+    hardest part. You need to have a book, the means to turn it into
+    an e-text and the time and will to do it.
+
+    After that comes second proofing. There are two problems here.
+    One is that there may not be enough texts for all the people who
+    want to second-proof; the other is that a lot of beginners just
+    abandon texts given to them for second-proofing, which holds up
+    the process and is discouraging for others. So a lot of
+    volunteers do their own second-proofing or send their texts to
+    established contacts with a track record of finishing the job,
+    rather than making them available to newbies. The Directors of
+    Production do serve as contact points, and at any given moment
+    may have some texts for proofing, but they can only distribute
+    the texts that have already been made.
+
+
+    With that explanation out of the way, I can better address your
+    question of what you can do.
+
+
+    Second-proofing is an easy way to start, but material isn't just
+    waiting for you. If you want to look for some, post your offer
+    here and wait a week or so. If no takers by then, e-mail Michael
+    and ask if there are any texts available; he may be able to
+    refer you to a Director of Production who has something current.
+    You may not get an e-text immediately, but you will get one. Of
+    course, you can also look here for offers of e-texts ready to
+    proof.
+
+    Your other option is to take on a book yourself. In your case,
+    you already have a scanner, so you are equipped to become a
+    producer. You need to find a PD book.
+
+    Getting PD books means finding and borrowing or buying them. You
+    can do this through used bookshops, libraries or book sites on
+    the Internet. I mention a few net sites in the FAQ in the link
+    below. I get all my books through them, since they make it easy
+    for me to find the books I want. Prices range from $5 up to (in
+    my case) about $30.
+
+    The best advice I can offer here is: pick a book that you _want_
+    to contribute, and a book you'll enjoy working with--you'll be
+    living with it up close and personal for quite a while.
+
+
+
+In March and April of 1999, Pietro created the PG Volunteers'
+WWWBoard and Greg Newby set up the mailing list gutvol-d, and, for
+the first time, volunteers who hadn't been introduced to each other
+by Michael or the Directors could meet online and communicate
+directly. A few FAQs and HOWTOs were written, covering the basics,
+the nitty-gritty of producing books. All of this activity made it
+much easier for people to get involved, and the Project experienced
+a new influx of interested volunteers. Improved OCR software was
+also a factor at this time: in response to the commoditization of
+scanners, there was rapid improvement in the quality of OCR, and
+better OCR made for easier production of e-texts.  More work was
+shared out in co-operative proofing experiments.
+
+It was in this new, expansive atmosphere, with ideas flooding in
+from enthusiasts newly energized by the project, that Charles Franks
+(Charlz) came up with the idea of a web site that would serve to
+distribute the work of proofing a book among many volunteers. But
+not only did he think of the concept; he went ahead and did it!
+
+In April 2000, Charlz first requested comments on his idea in
+a post on the Volunteers' WWWBoard, and by the end of September,
+the first e-texts were queueing up on the production line.
+
+On October 9th, Charlz wrote:
+
+    Number of pages proofed by date:
+
+    2nd    6
+    3rd    6
+    4th   20  <-- Newsletter
+    5th   27
+    6th   25
+    7th   29
+    8th   30
+    9th   45!! (and the day ain't over yet)
+
+(The "Newsletter" is a reference to the site being mentioned in
+the PG Newsletter on October 4th, 2000).
+
+Distributed Proofreaders, or DP, simply kept growing from there, as
+Charlz kept scanning and adding more books and features and
+proofers, and its simple organic growth produced 600 e-texts in two
+years, but when Charlz asked for more help on Slashdot, a popular
+technical news site, on November 8th, 2002, the response blew the
+roof off! The pages per day figure jumped from 1,000 to about 10,000
+for a while, then settled down at its current 4,000. 4,000 pages,
+even given that each page is proofed twice, is a lot of pages. 2,000
+produced pages per day is about five full books per day. DP has
+formed the backbone of PG's production ever since. Whatever the
+future of DP's production, its effect on shared knowledge and
+resources, and the communication and community it has built, ensures
+that Project Gutenberg will never be the same again.
+
+
+I began writing this FAQ in March 2002, and was essentially finished
+around December 2002. It sat around, with a few tweaks here and
+there in response to comments, until the start of September 2003.
+
+Today, it is a useful guide to Project Gutenberg norms and practices.
+By the time you read it, it may be ancient history ("Hey, Grandad,
+did you REALLY scan things from paper? Why didn't you use your
+brain implant?" :-) But it is one record of How Things Were in
+Project Gutenberg during this time of change.
+
+jim
+September 7th, 2003.
+
+
+
+
+
+
+
+
+Project Gutenberg FAQ 2002
+
+I have a question not answered in this FAQ. How do I ask it?
+
+If it's about how to produce a text, the Volunteers' Board at
+<https://www.gutenberg.org/vol/wwwboard/> is generally the best
+place to ask.
+
